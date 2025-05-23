@@ -7,7 +7,7 @@
 - 🎓 Currently pursuing my M.Sc. in Computer Science at **Blekinge Institute of Technology, Sweden**🇸🇪
 - 🇮🇳 Completed B.Tech + M.Tech (Dual Degree) in Computer Science from **JNTUH, India**
 - 🤖 Passionate about **Machine Learning, Data Science, Cloud Computing and DevOps**
-- 🧠 Actively exploring **Advanced ML, Deep Learning, and Cloud Computing**
+- 🧠 Actively exploring **Machine Learning , DevOps, and Cloud Computing**
 - 🧑‍💻 I’ve worked on projects like a **Fashion Recommender System** and **Time-Series Forecasting in EU Energy Markets**
 - 🎯 Organized large-scale tech fests, coding events, and data science workshops with 1500+ participants
 - 💬 Let’s talk ML, data projects, or how to run a tech fest without losing your mind 😄
