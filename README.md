@@ -24,7 +24,7 @@
 
 ---
 
-## � Featured Projects
+##  Featured Projects
 
 ###  LLM, RAG & Agent Systems
 - **[RAG-PDF-Chatbot](#)** – Conversational QA over PDFs with FastAPI, ChromaDB, and Sentence-Transformers.  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌱 What I’m Exploring
+##  What I’m Exploring
 - **MLOps**: automated retraining pipelines, monitoring, and drift detection.  
 - **Cloud-native AI**: deploying LLM apps with serverless + scalable vector search.  
 - **Agentic workflows**: chaining reasoning steps and feedback loops in production settings.  
