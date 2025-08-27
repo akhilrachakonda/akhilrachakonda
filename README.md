@@ -38,7 +38,7 @@
 
 ###  Cloud & DevOps
 - **AI Deployment Pipelines** – Containerized ML apps with **Docker + FastAPI**, deployable on AWS/GCP.  
-- **CI/CD Workflows** – Automated testing and deployment pipelines via **GitHub Actions**.  
+- **CI/CD Workflows** – Automated testing and deployment pipelines via **GitHub Actions**. *(work in progress)* 
 - **Kubernetes Experiments** – Running ML microservices on Minikube and exploring Helm charts. *(work in progress)*  
 
 ---
