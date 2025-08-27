@@ -34,7 +34,7 @@
 ###  Machine Learning
 - **[GRU-GAN for SOH Estimation](#)** – Battery health forecasting using NASA datasets, boosting accuracy by 17%.  
 - **[EU Energy Time-Series Forecasting](#)** – Forecasting negative electricity prices with LSTM/XGBoost/SARIMA.  
-- **[Unified Object Detection](#)** – YOLOv8 & Faster R-CNN for industrial safety monitoring.
+- **[Unified Object Detection](https://github.com/akhilrachakonda/Unified-Object-Detection-System-for-Industrial-Safety)** – YOLOv8 & Faster R-CNN for industrial safety monitoring.
 
 ###  Cloud & DevOps
 - **AI Deployment Pipelines** – Containerized ML apps with **Docker + FastAPI**, deployable on AWS/GCP.  
