@@ -27,13 +27,13 @@
 ##  Featured Projects
 
 ###  LLM, RAG & Agent Systems
-- **[RAG-PDF-Chatbot](#)** – Conversational QA over PDFs with FastAPI, ChromaDB, and Sentence-Transformers.  
+- **[RAG-PDF-Chatbot](https://github.com/akhilrachakonda/RAG-pdf-chatbot)** – Conversational QA over PDFs with FastAPI, ChromaDB, and Sentence-Transformers.  
 - **[Vector-Search-Demo](#)** – Minimal FAISS + embeddings CLI for document similarity search.  
 - **[Agentic-Research-Assistant](#)** – LangChain-based agent that reads local notes, calls tools, and refines outputs.
 
 ###  Machine Learning
-- **[GRU-GAN for SOH Estimation](#)** – Battery health forecasting using NASA datasets, boosting accuracy by 17%.  
-- **[EU Energy Time-Series Forecasting](#)** – Forecasting negative electricity prices with LSTM/XGBoost/SARIMA.  
+- **[GRU-GAN for SOH Estimation](https://github.com/akhilrachakonda/GRU-GAN-for-State-of-Health-Estimation-in-Lithium-Ion-Batteries)** – Battery health forecasting using NASA datasets, boosting accuracy by 17%.  
+- **[EU Energy Time-Series Forecasting](https://github.com/akhilrachakonda/Time-series-Modeling-of-EU-Energy-Market)** – Forecasting negative electricity prices with LSTM/XGBoost/SARIMA.  
 - **[Unified Object Detection](https://github.com/akhilrachakonda/Unified-Object-Detection-System-for-Industrial-Safety)** – YOLOv8 & Faster R-CNN for industrial safety monitoring.
 
 ###  Cloud & DevOps
