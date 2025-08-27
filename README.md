@@ -54,5 +54,3 @@
 -  [LinkedIn](https://www.linkedin.com/in/akhil-rachakonda-a968a2214)  
 
 ---
-
-⚡ *Pinned repos below highlight both my **AI/ML prototypes** and my **DevOps/cloud experiments** → showing the bridge from research to production-ready AI.*  
