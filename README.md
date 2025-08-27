@@ -18,7 +18,6 @@
 |-----------------------|-------------------------------------------------------------------------------|
 | **AI/ML & LLMs**      | Python • PyTorch • TensorFlow • HuggingFace • LangChain • Chroma • FAISS      |
 | **DevOps & Cloud**    | Docker • Kubernetes • GitHub Actions • Linux (cron, shell scripting) • CI/CD  |
-| **Cloud Platforms**   | AWS (S3, Lambda, EC2) • Azure ML • GCP Vertex AI (learning in progress)       |
 | **Data & Visualization** | Pandas • NumPy • SQL • PostgreSQL • Power BI • Matplotlib • Seaborn        |
 | **Other**             | REST APIs • FastAPI • Anaconda • OpenCV • YOLO • RNN/LSTM/GRU/GANs            |
 
