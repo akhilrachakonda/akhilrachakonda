@@ -1,6 +1,6 @@
 # Hey there, I'm Akhil Goud Rachakonda 
 
-### AI/ML Engineer in Training | Cloud & DevOps Enthusiast | MSc Student @ BTH, Sweden
+### AI/ML Engineer | Cloud & DevOps Enthusiast | MSc Student @ BTH, Sweden
 
 ---
 
